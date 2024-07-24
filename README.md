@@ -14,7 +14,7 @@ This repository was created as a place to store resources which can help new des
 
 If you have any suggestions on improving any of these resources, or would like to add to the resources, please create an Issue on this repository, or [contact us](https://www.makersmakingchange.com/s/contact).
 
-## Resources
+## Resource Links
 
 | Document             | Version | Link |
 |----------------------|---------|------|
@@ -26,70 +26,54 @@ If you have any suggestions on improving any of these resources, or would like t
 | Open Source Licenses | 1.0     | [Licensing Resource] |
 | Photos               | 1.0     | [Photos Resource] |
 | Videos               | 0.1     | [Video Resource] |
+| Bill of Materials    | 1.0     | [Common BOM Parts] | 
+| Common Part Images   | 1.0     | [Common Photos] |
 
 ## GitHub
 
+MMC has started hosting all our designs on GitHub, so we created this resource to help volunteers navigate GitHub to download and use our designs, and to create their own designs. The GitHub resource is useful for any user who would like to learn how to use GitHub.
+
 ## 3D Printing
+
+Most devices from MMC require 3D printing so this resource is designed to help people learn the basics of 3D printing. The 3D printing resource is useful for any user who would like to learn 3D printing.
 
 ## CAD Design
 
-## PCB Design
+Most designs hosted with MMC will require CAD modelling so this resource is designed to help people learn the basics of using CAD software. The CAD design resource is useful for any user who would like to learn CAD modelling.
+
+## Printed Circuit Board (PCB) Design
+
+Creating custom PCBs can be useful for designs with complex electronics so this resource helps designers learn how to design their own custom PCBs. The PCB design resource is useful for any user who would like to learn how to design PCBs.
 
 ## Arduino
 
+MMC uses Arduino for any devices tha require firmware, so this resource was designed to help volunteers learn how to use Arduino, both for flashing existing firmware to devices and writing their own code. The Arduino resource is useful for any user who would like to learn how to use Arduino.
+
 ## Open Source Licenses
+
+Devices hosted by MMC must have at least one open source license for them, so this resource helps designers learn about different open source licenses for documentation, hardware, and software/firmware. The open source licenses resource is more useful for people intending to submit designs to MMC as we require devices to be open source.
 
 ## Taking and Using Photos
 
+Device documentation and posting requires different types of images/photos of the device so this photo resource was created to help designers take useful images and use them appropriately in documentation. The photo resource is useful for any designer, but is particularly useful for anyone planning to submit a design to MMC.
+
 ## Creating Videos
+
+This resource is still under development and we are looking for volunteers with video experience who would be interested in developing it.
+
+Assembly and use videos for devices can be extremely helpful for other makers and users of devices, so this resource will describe best practices for taking, editing, and using videos. The video resource will be useful for any designer.
+
+## Common Part Bill of Materials (BOM)
+
+There are many parts that are used across multiple MMC devices, so this resource contains all the information requried to fill in the BOM lines for a device that uses any of these common parts. Designers can copy and paste the lines from this BOM into the BOM for their device. The BOM resource is most useful for designers who are using the [MMC documentation templates](https://github.com/makersmakingchange/OpenAT-Template).
+
+## Commmon Part Images
+
+The common part images resource has photos of commonly used parts across multiple MMC devices. Like the BOM resource, designers can use these images to show each component in their device in the Maker Guide. The common part images resource is most useful for designers who are using the [MMC documentation templates](https://github.com/makersmakingchange/OpenAT-Template).
 
 ## Other Makers Making Change Resources
 
 Please visit our [Resources page](https://www.makersmakingchange.com/s/resources) for other resources related to MMC and Open AT.
-
-### 1. Read through the Maker Guide
-
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
-
-
-### 2. Order the Off-The-Shelf Components
-
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
-
-
-### 3. Print the 3D Printable components
-
-All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
-
-### 4. Assemble the <DeviceName>
-
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf) for the tools and steps required to build the device.
-
-## How to improve this Device
-As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
-
-## Files
-### Documentation
-<!--- Update the name, link, and version for documentation --->
-| Document             | Version | Link |
-|----------------------|---------|------|
-| Design Rationale     | 1.0     | [<DeviceName>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [<DeviceName>_Maker_Checklist](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<DeviceName>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 1.0     | [<DeviceName>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
-| Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
-
-### Design Files
-<!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
- - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
-
-### Build Files
-<!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
- - [3D Printing Files](/Build_Files/3D_Printing_Files)
- - [PCB Build Files](/Build_Files/PCB_Build_Files)
- - [Firmware Files](/Build/Firmware_Files)
-
 
 ## License
 <!--- Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials. --->
@@ -101,25 +85,19 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <Repository_Link> 
+Source Location: [Repository](https://github.com/makersmakingchange/OpenAT-Resources/tree/main)
 
 ## Attribution
-<!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
-The device was designed by <DesignerName>. 
 
-<!--- This is the attribution for the template. --->
-The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
+The documentation was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license.
 
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
 Designers:
- - <DESIGNER 1>
- - <DESIGNER 2>
-
-Testers:
- - <TESTER 1>
- - <TESTER 2>
-
+ - Stephan Dobri
+ - Didi Dimitrova
+ - Jake McIvor
+ - Josie Versloot
 
 ---
 
