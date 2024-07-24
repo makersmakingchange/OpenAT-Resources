@@ -18,16 +18,17 @@ If you have any suggestions on improving any of these resources, or would like t
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| GitHub               | 1.0     | [<DeviceName>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| 3D Printing          | 1.0     | [<DeviceName>_Maker_Checklist](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| CAD Design           | 1.0     | [<DeviceName>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| PCB Design           | 1.0     | [<DeviceName>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
-| Arduino              | 1.0     | [Changelog](CHANGES.txt)     |
-| Open Source Licenses | 1.0     | [Licensing Resource] |
-| Photos               | 1.0     | [Photos Resource] |
-| Videos               | 0.1     | [Video Resource] |
-| Bill of Materials    | 1.0     | [Common BOM Parts] | 
-| Common Part Images   | 1.0     | [Common Photos] |
+| GitHub               | 1.0     | [GitHub Resource](/GitHub_Resources/GitHub_Resource.pdf)     |
+| 3D Printing          | 1.0     | [3D_Printing_Resource](/3D_Printing_Resources/3D_Printing_Resource.pdf)     |
+| CAD Design           | 1.0     | [CAD_Design_Resource](/CAD_Design_Resources/CAD_Design_Resource.pdf)     |
+| PCB Design           | 1.0     | [PCB_Design_Resource](/PCB_Design_Resource/PCB_Design_Resource.pdf)    |
+| Arduino              | 1.0     | [Arduino_Resource](/Arduino_Resources/Arduino_Resource.pdf) |
+| Open Source Licenses | 1.0     | [Licensing Resource](/LICENSES/License_Resource.pdf) |
+| Photos               | 1.0     | [Photos Resource](/Photos_and_Videos/Photo_Resources/Photo_Resource.pdf) |
+| Videos               | 0.1     | [Video Resource](/Photos_and_Videos/Video_Resources/Video_Resource.pdf) |
+| Bill of Materials    | 1.0     | [Common BOM Parts](/Common_Parts/Common_Parts_BOM.xlsx) | 
+| Common Part Images   | 1.0     | [Common Photos](/Common_Parts/Common_Parts_Images) |
+| Changes              | 1.0     | [Changelog](CHANGES.txt)     
 
 ## GitHub
 
