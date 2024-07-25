@@ -1,17 +1,17 @@
 ---
-title: "GAME Checkpoint Resources"
+title: "Open AT Resources"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Website-Header-2.png # image is 1280x400px. the height is a bit too tall so I just pushed the text/images down in Canva.
   actions:
-    - label: "Download All GAME Checkpoint Resources"
-      url: "https://github.com/makersmakingchange/GAME-Checkpoints/archive/refs/heads/main.zip" # direct link to download the Main branch
+    - label: "Download All Open AT Resources"
+      url: "https://github.com/makersmakingchange/OpenAT-Resources/archive/refs/heads/main.zip" # direct link to download the Main branch
 excerpt: |
-  Version 1.0 / Released Jan 2023 
+  Version 0.1 / Released July 2024
 
-  - This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers.
+  - This website hosts resources to help designers create open source assistive devices.
 
 
 feature_row:
