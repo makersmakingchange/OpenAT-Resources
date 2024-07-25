@@ -24,8 +24,8 @@ If you have any suggestions on improving any of these resources, or would like t
 | PCB Design           | 1.0     | [PCB_Design_Resource](/PCB_Design_Resource/PCB_Design_Resource.pdf)    |
 | Arduino              | 1.0     | [Arduino_Resource](/Arduino_Resources/Arduino_Resource.pdf) |
 | Open Source Licenses | 1.0     | [Licensing Resource](/LICENSES/License_Resource.pdf) |
-| Photos               | 1.0     | [Photos Resource](/Photos_and_Videos/Photo_Resources/Photo_Resource.pdf) |
-| Videos               | 0.1     | [Video Resource](/Photos_and_Videos/Video_Resources/Video_Resource.pdf) |
+| Photos               | 1.0     | [Photos Resource](/Photos_and_Videos_Resources/Photo_Resources/Photo_Resource.pdf) |
+| Videos               | 0.1     | [Video Resource](/Photos_and_Videos_Resources/Video_Resources/Video_Resource.pdf) |
 | Bill of Materials    | 1.0     | [Common BOM Parts](/Common_Parts/Common_Parts_BOM.xlsx) | 
 | Common Part Images   | 1.0     | [Common Photos](/Common_Parts/Common_Parts_Images) |
 | Changes              | 1.0     | [Changelog](CHANGES.txt)     
