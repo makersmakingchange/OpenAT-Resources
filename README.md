@@ -4,7 +4,7 @@
 <!--- This section and the following text should be removed. --->
 
 # Open AT Resources
-This is a GitHub repository used to host resources that will support designers to create open source assistive devices (Open AT devices). Some of the resources were created by Makers Making Change (MMC), while others were created by different groups. These resources are intended to help new designers getting started, but may also be helpful for more experienced designers as well. There is a website created for ease of viewing/downloading the files at INSERT THE LINK HERE.
+This is a GitHub repository used to host resources that will support designers to create open source assistive devices (Open AT devices). Some of the resources were created by Makers Making Change (MMC), while others were created by different groups. These resources are intended to help new designers getting started, but may also be helpful for more experienced designers as well. There is a website created for ease of viewing/downloading the files at [Open AT Resources](https://makersmakingchange.github.io/OpenAT-Resources/).
 
 The Neil Squire Society and the Makers Making Change program cannot guarantee that external links will remain active, and has no involvement in moderating external communities. You can see examples of other Open AT Devices at the Makers Making Change [website](https://www.makersmakingchange.com/s/category/assistive-devices). 
 
