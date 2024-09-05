@@ -70,6 +70,8 @@ There are many parts that are used across multiple MMC devices, so this resource
 
 ## Commmon Part Images
 
+This resource is still under development.
+
 The common part images resource has photos of commonly used parts across multiple MMC devices. Like the BOM resource, designers can use these images to show each component in their device in the Maker Guide. The common part images resource is most useful for designers who are using the [MMC documentation templates](https://github.com/makersmakingchange/OpenAT-Template).
 
 ## Other Makers Making Change Resources
@@ -99,6 +101,7 @@ Designers:
  - Didi Dimitrova
  - Jake McIvor
  - Josie Versloot
+ - Tyler Fentie
 
 ---
 
