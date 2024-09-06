@@ -11,7 +11,7 @@ header:
   overlay_color: "#333"
 feature_row:
   - image_path: assets/images/Example_Part.png
-    alt: "
+    alt: "A closeup of a 3D printed part."
     title: "Photo Resource"
     excerpt: |
       A resource outlining best practices for taking and using photos across different types of documents. The resource includes examples of good and bad images to use with explanations.
