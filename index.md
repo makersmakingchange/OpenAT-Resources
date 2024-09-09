@@ -36,7 +36,7 @@ feature_row:
     url: "/_pages/CAD/" 
     btn_label: "Go to CAD Resources"
     btn_class: "btn--primary"
-  - image_path: assets/images/Stock_Parts_BOM_Header.png
+  - image_path: assets/images/Stock_Parts_BOM_Header.PNG
     alt: "Screenshot of the header from the Stock Parts spreadsheet"
     title: "Commonly Used Parts"
     excerpt: "Many parts are used across multipled devices at MMC. The most common parts are listed here in the format of our Bill of Material (BOM) template to make it easy for designers to copy and paste relevant information into new BOMs."
