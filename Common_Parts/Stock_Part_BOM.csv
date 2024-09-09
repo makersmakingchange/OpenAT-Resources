@@ -1,0 +1,160 @@
+﻿Device:,Stock Parts BOM,,,,,,,,,,,,
+Version:,V1.0.0,,,,,,,,,,,,
+Last Updated:,2024-09-03,,,,,,,,,,,,
+,,,,,,,,Total filament (g),,Unit Cost,Total Estimated Cost,Build Cost,
+,,,,,,,,,, $-   , $-   ,,
+ID,Commercial Parts,,,,,,,,, $-   , $-   ,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+,,"3.5 mm Stereo Cable, 6ft M/F",,Prime Cables,Prime Cables,,1,, $2.89 , $-   ,,,https://www.primecables.ca/p-312816-cab-648-all-35mm-stereo-plugjack-mf-cable-black-5-lengths-available-monoprice#sku312816
+,,3.5 mm Mono Jack (square),,SCHURTER Inc.,Digikey,,1,, $2.16 , $-   ,,,https://www.digikey.ca/en/products/detail/schurter-inc/4832-2211/2646631
+,,3.5 mm Mono Jack (rectangular),,CUI Devices,Digikey,,1,, $2.32 , $-   ,,,https://www.digikey.ca/en/products/detail/cui-inc/MJ-3502/281321
+,,"3.5 mm Mono Cable, 10ft M/M",,Prime Cables,Prime Cables,,1,, $2.89 , $-   ,,,https://www.primecables.ca/p-370665-cab-aud-200-all-35mm-18-inch-mono-ts-male-to-male-28awg-ft4-cable-black#sku383507
+,,M2 x 6mm Screw,,Uxcell,Amazon,,1000,, $12.99 , $-   ,,,https://www.amazon.ca/dp/B00GMQDSRI?ref_=cm_sw_r_cp_ud_dp_3V2BFBFRHQ3973DJJENP
+,,Protoboard,,Adafruit Industries LLC.,Digikey,,3,, $3.60 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4785/13617529
+,,SeeedStudio XIAO RP2040 Arduino,,"Seeed Technology Co., Ltd.",Digikey,,1,, $6.74 , $-   ,,,https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010428/14672129
+,,Mini Analog Breakout Board,,Adafruit Industries LLC.,Digikey,,1,, $2.16 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3246/6193594
+,,Mini Analog Thumbstick,,Adafruit Industries LLC.,Digikey,,1,, $3.84 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/2765/6193582
+,,5 Position Right Angle Female Header,,Sullins Connector Solutions,Digikey,,1,, $1.08 , $-   ,,,https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PPTC051LGBN-RC/775899
+,,7 Position Female Headers,,Sullins Connector Solutions,Digikey,,1,, $0.86 , $-   ,,,https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PPTC071LFBN-RC/810146
+,,Right Angle Slide Switch/Toggle Switch/Slide Switch,,C&K,Digikey,,1,, $0.65 , $-   ,,,https://www.digikey.ca/en/products/detail/c-k/OS102011MA1QS1/1981431
+,,"Wire, solid core, 1 foot, colour 1 (wh)",,CNC Tech,Digikey,,1,, $0.55 , $-   ,,,https://www.digikey.ca/en/products/detail/cnc-tech/1007-24-1-2000-002-1-TD/17799208
+,,"Wire, solid core, 1 foot, colour 2 (blk)",,CNC Tech,Digikey,,1,, $0.79 , $-   ,,,https://www.digikey.ca/en/products/detail/cnc-tech/1007-24-1-2000-001-1-TD/17799235
+,,"Wire, solid core, 1 foot, colour 3 (grn)",,CNC Tech,Digikey,,1,, $0.55 , $-   ,,,https://www.digikey.ca/en/products/detail/cnc-tech/1007-24-1-2000-007-1-TD/17799170
+,,PS2 Joystick Module (Generic),,Wishiot,Amazon,,10,, $21.99 , $-   ,,,https://www.amazon.ca/gp/product/B089VXPHDH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+,,6V DC Motor,,GikFun,Amazon,,10,, $15.68 , $-   ,,,https://www.amazon.ca/gp/product/B06WLL6QM5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+,,100 Ohm Resistor,,"KOA Speer Electronics, Inc.",Digikey,,1,, $0.17 , $-   ,,,https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/MF1-4LCT52R101J/21680263?s=N4IgTCBcDaIAQFkBiBGA9AFgDIGEAqArGAEooAMKAUiALoC%2BQA
+,,10k Ohm Resistor,,"KOA Speer Electronics, Inc.",Mouser,,1,, $0.16 , $-   ,,,https://www.mouser.ca/ProductDetail/KOA-Speer/MF1-4LCT52R103J?qs=DG1n8gfZNTsQyNkYIaO24A%3D%3D
+,,2.2k Ohm Resistor,,"KOA Speer Electronics, Inc.",Mouser,,1,, $0.16 , $-   ,,,https://www.mouser.ca/ProductDetail/KOA-Speer/MF1-4LCT52R222G?qs=91WPSIiQh9Kh6m%2FGxJ5MCA%3D%3D
+,,220 Ohm Resistor,,"KOA Speer Electronics, Inc.",Mouser,,1,, $0.15 , $-   ,,,https://www.mouser.ca/ProductDetail/KOA-Speer/MF1-4LCT52R221J?qs=91WPSIiQh9JIjB%2FAtwkZiw%3D%3D
+,,4.7k Ohm Resistor,,"KOA Speer Electronics, Inc.",Mouser,,1,, $0.16 , $-   ,,,https://www.mouser.ca/ProductDetail/KOA-Speer/MF1-4LCT52R472G?qs=91WPSIiQh9K2asC3F9ek6A%3D%3D
+,,NeoPixels LED,,Adafruit Industries LLC.,Mouser,,5,, $7.18 , $-   ,,,https://www.mouser.ca/ProductDetail/Adafruit/1938?qs=GURawfaeGuAkVClyRWI8wg%3D%3D
+,,Piezo Buzzer,,TDK Corporation,Digikey,,1,, $0.86 , $-   ,,,https://www.digikey.ca/en/products/detail/tdk-corporation/PS1240P02BT/935924
+,,RJ 11 Connector,,TE Connectivity AMP Connectors,Digikey,,1,, $1.45 , $-   ,,,https://www.digikey.ca/en/products/detail/5555165-1/A31422-ND/769566?curr=usd&utm_campaign=buynow&utm_medium=aggregator&utm_source=octopart
+,,10 uF Capacitor,,KEMET,Mouser,,1,, $1.06 , $-   ,,,https://www.mouser.ca/ProductDetail/KEMET/C430C106K3R5TA?qs=QTajy0ParP4Iyid6Jgh%2FcQ%3D%3D
+,,3.5 mm Mono Switch Jack,,CUI Devices,Digikey,,1,, $2.85 , $-   ,,,https://www.digikey.ca/en/products/detail/cui-inc/SJ1-3535NG/738699
+,,"3.5 mm Stereo Jack, TRRS",,CUI Devices,Digikey,,1,, $1.96 , $-   ,,,https://www.digikey.ca/en/products/detail/cui-devices/SJ-43514/368146
+,,50 mm Qwiic Cable,,SparkFun Electronics,Digikey,,1,, $1.37 , $-   ,,,https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14426/7652739
+,,Adafruit Nunchuk Breakout Board,,Adafruit Industries LLC.,Digikey,,1,, $4.25 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4836/13577615
+,"0.25"" Dome light pipe",Light Pipe,,Dialight,Digikey,,1,, $1.80 , $-   ,,,https://www.digikey.ca/en/products/detail/dialight/51513030250F/4965201
+,,Wii Nunchuk Controller,,OSTENT,Amazon,,1,, $11.99 , $-   ,,,https://www.amazon.ca/dp/B00FJ2LMGK
+,,Adafruit QT PY - SAMD21,,Adafruit Industries LLC.,Digikey,,1,, $10.80 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4600/13543375
+,,USB to USB C Cable,,CLEEFUN,Amazon,,5,, $19.99 , $-   ,,,https://www.amazon.ca/gp/product/B09XVHNQ3W/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+,,M3 x 12mm Screw,,Uxcell,Amazon,,60,, $9.99 , $-   ,,,https://www.amazon.ca/uxcellM3-Stainless-Steel-Phillips-Screws/dp/B012TE1TBS/ref=sr_1_11?crid=1BHUM7QK686EM&keywords=m3+x+12mm&qid=1696980028&sprefix=m3+x+12m%2Caps%2C162&sr=8-11
+,,IC Op Amp,,Texas Instruments,Digikey,,1,, $5.36 , $-   ,,,https://www.digikey.ca/en/products/detail/texas-instruments/TLV2451CP/277534?s=N4IgTCBcDa4JwDYC0BGAHGuSCsSByAIgAQgC6AvkA
+,,MOSFET 100v,,Vishay Siliconix,Digikey,,1,, $3.56 , $-   ,,,https://www.digikey.ca/en/products/detail/vishay-siliconix/IRLD110PBF/812489
+,,Sensor Photodiode 850nm,,ams-OSRAM USA Inc.,Digikey,,1,, $1.67 , $-   ,,,https://www.digikey.ca/en/products/detail/osram-opto-semiconductors-inc/BPW34/607274
+,,Schottky Diode 20v,,Micro Commercial Co,Digikey,,1,, $0.45 , $-   ,,,https://www.digikey.ca/en/products/detail/micro-commercial-co/1N5817-TP/950394?s=N4IgTCBcDaIIwDkCsAOOB2AtAFQAoGFtMEAREAXQF8g
+,,5 mm Green LED,,Kingbright,Digikey,,1,, $1.46 , $-   ,,,https://www.digikey.ca/en/products/detail/kingbright/WP5603ZGDL-SD-G/3084159
+,,Capacitor 10000pF / 10nF,,KEMET,Digikey,,1,, $0.33 , $-   ,,,https://www.digikey.ca/en/products/detail/kemet/C315C103M5U5TA7301/6562544
+,,Capacitor 33pF,,KEMET,Digikey,,1,, $0.42 , $-   ,,,https://www.digikey.ca/en/products/detail/kemet/C315C330K2G5TA7301/6562533
+,,Capacitor 10pF,,Vishay Beyschlag/Draloric/BC Components,,,1,, $0.36 , $-   ,,,https://www.digikey.ca/en/products/detail/vishay-bc-components/K100J15C0GF5TL2/286623
+,,Capacitor 1uF,,KEMET,Digikey,,1,, $1.15 , $-   ,,,https://www.digikey.ca/en/products/detail/kemet/C315C105K3R5TA/3726118?s=N4IgTCBcDaIMwE4EFoEHYCMAWZA5AIiALoC%2BQA
+,,Trimmer Potentiometers,,Bourns Inc,Digikey,,1,, $4.02 , $-   ,,,https://www.digikey.ca/en/products/detail/bourns-inc/3386P-1-104TLF/1232548
+,,200K Ohm Resistor,,YAGEO,Digikey,,1,, $0.15 , $-   ,,,https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-200K/711
+,,CR2032 Battery Holder,,MPD (Memory Protection Devices),Digikey,,1,, $1.67 , $-   ,,,https://www.digikey.ca/en/products/detail/mpd-memory-protection-devices/BU2032SM-BT-GTR/2439521
+,,Slide Switch,,E-Switch,Digikey,,1,, $1.09 , $-   ,,,https://www.digikey.ca/en/products/detail/e-switch/EG1218/101726
+,,CR2032 Coin Cell Battery,,Amazon,Amazon,,10,, $7.32 , $-   ,,,https://www.amazon.ca/AmazonBasics-Lithium-CR2032-Batteries-10-Pack/dp/B07RXJ4S7Z
+,,"0.07"" width Cable Tie",,Panduit Corp.,Digikey,,1000,, $76.45 , $-   ,,,https://www.digikey.ca/en/products/detail/panduit-corp/PLT-6SM-M/280030
+,,M2 x 8mm screw,,APM Hexseal,Digikey,,1,, $1.30 , $-   ,,,https://www.digikey.ca/product-detail/en/apm-hexseal/RM2X8MM-2701/335-1155-ND/612919
+,,100 mm Qwiic Cable ,,Adafruit Industries LLC.,Digikey,,1,, $1.37 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4210/10230021 
+,,4 Pin Male Headers,,Sullins Connector Solutions,Digikey,,1,, $0.19 , $-   ,,,https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PRPC004SAAN-RC/2775250
+,,"5 mm Red LED, 2.1V",,Wurth Elektronik,Digikey,,1,, $0.25 , $-   ,,,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012 
+,,68 Ohm Resistor,,YAGEO,Digikey,,1,, $0.15 , $-   ,,,https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-68R/2832
+,,7 Pin Male Headers,,"Seeed Technology Co., Ltd.",Digikey,,5,, $0.35 , $-   ,,,https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010490/19176770 
+,,LCD Feedback Screen,,Adafruit Industries LLC.,Digikey,,1,, $30.63 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/938/5774238
+,,Qwiic Adapter Board,,SparkFun Electronics,Digikey,,1,, $2.30 , $-   ,,,https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-14495/7942483?s=N4IgTCBcDaICIFEBqBaAjAFgwTgKwgF0BfIA
+,,Seeed Studio Xiao NRF52840,,"Seeed Technology Co., Ltd.",Digikey,,1,, $15.29 , $-   ,,,"https://www.digikey.ca/en/products/detail/seeed-technology-co.,-ltd/102010448/16652893 "
+,,"M2.5 Nut, Nylon",,Essentra Components,Digikey,,1,, $0.20 , $-   ,,,https://www.digikey.ca/en/products/detail/essentra-components/04M025045HN/9677099 
+,,"M2.5 x 8 mm Screw, Nylon",,Essentra Components,Digikey,,1,, $0.20 , $-   ,,,https://www.digikey.ca/en/products/detail/essentra-components/50M025045P008/11638585 
+,,"0.250"" Ball Bearing",,Mechatronics Bearing Group,Digikey,,1,, $4.41 , $-   ,,,https://www.digikey.ca/en/products/detail/mechatronics-bearing-group/DDRI814ZZRA3P25LY121/9608362 
+,,200 mm Qwiic Cable ,,SparkFun Electronics,Digikey,,1,, $2.43 , $-   ,,,https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-17258/13629029?s=N4IgTCBcDaIAoCUAqBaAjAdjAVgBwgF0BfIA 
+,,50 mm Qwiic Cable ,,SparkFun Electronics,Digikey,,1,, $1.53 , $-   ,,,https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-17260/13629028
+,,8mm Magnet,,"Radial Magnets, Inc.",Digikey,,1,, $1.18 , $-   ,,,https://www.digikey.ca/en/products/detail/radial-magnets-inc/9029/5218824
+,,Adafruit LPS22 Pressure Sensor,,Adafruit Industries LLC.,Digikey,,1,, $10.01 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4633/12396897
+,,Adafruit LPS33HW Pressure Sensor,,Adafruit Industries LLC.,Digikey,,1,, $18.00 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4414/11201428 
+,,Adafruit STEMMA QT / Qwiic Board TLV493D,,Adafruit Industries LLC.,Digikey,,1,, $8.57 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4366/10481837 
+,,Qwiic Cable 150 mm to 4 Male Headers,,Adafruit Industries LLC.,Digikey,,1,, $1.37 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4209/10230003
+,,RJ11 Breakout Board,,SparkFun Electronics,Digikey,,2,, $3.02 , $-   ,,,https://www.digikey.ca/en/products/detail/sparkfun-electronics/BOB-14021/6228638
+,,RJ11 Cable,,Assmann WSW Components,Digikey,,1,, $5.00 , $-   ,,,https://www.digikey.ca/en/products/detail/assmann-wsw-components/AT-S-26-6-6-B-7-R/1972588 
+,,RJ11 Connector Jack,,TE Connectivity AMP Connectors,Digikey,,1,, $1.45 , $-   ,,,https://www.digikey.ca/en/products/detail/te-connectivity-amp-connectors/5555165-1/769566
+,,Tactile Switch,,Omron Electronics,Digikey,,1,, $1.23 , $-   ,,,https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3F-5050/368377
+,,¼-20 Hex Nut,,Bolt Dropper,Amazon,,100,, $39.99 , $-   ,,,https://www.amazon.ca/gp/product/B06X1FNS96/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+,,"¼-20, 1/2"" Length Hex Bolt",,Hard-To-Find Fastener,Amazon,,100,, $14.63 , $-   ,,,https://www.amazon.ca/gp/product/B00OHUSUJW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+,,Limit Switch,,Omron Electronics,Digikey,,1,, $1.57 , $-   ,,,https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/SS-3GP/664724
+,,#4 3/8 length Screw,,Small Parts,Amazon,,100,, $7.30 , $-   ,,,https://www.amazon.ca/gp/product/B00GI86MW8
+,,"¼-20, 5/16"" length T-Nut",,Bolt Dropper,Amazon,,100,, $19.99 , $-   ,,,https://www.amazon.ca/Bolt-Dropper-Pronged-Climbing-Cabinetry/dp/B01MSVU3WF/ref=sr_1_5?crid=XV46QPGLABMZ&keywords=1%2F4-20%2B5%2F16%2Bt-nut&qid=1707328400&sprefix=1%2F4-20%2B5%2F16%2Bt-nu%2Caps%2C181&sr=8-5&th=1
+,,Adafruit Mini Analog Joystick,,Adafruit Industries LLC.,Digikey,,1,, $30.63 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3102/6152821
+,,"TRRS Audio Cable, M / Wire (0.5 cable)",,Tensility International Corp.,Digikey,,1,, $8.41 , $-   ,,,https://www.digikey.ca/en/products/detail/tensility-international-corp/10-00341/2350244
+,,M3 Hex Nut,,Sowaka,Amazon,,100,, $8.99 , $-   ,,,https://www.amazon.ca/gp/product/B09J4C4MLH/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
+,,"4"" Cable Tie / Zip Tie",,3M,Digikey,,1,, $0.15 , $-   ,,,https://www.digikey.ca/en/products/detail/3m/CT4NT18-M/2721151
+,,Seeduino Nano,,"Seeed Technology Co., Ltd.",Digikey,,1,, $10.94 , $-   ,,,https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010268/10290292
+,,Audio Amplifier (Pam8302),,Adafruit Industries LLC.,Digikey,,1,, $6.06 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/2130/5761279
+,,Mono Speaker (4Ω 3W ),,Adafruit Industries LLC.,Digikey,,1,, $6.06 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3351/6612456
+,,Audio Potentiometer,,CUI Devices,Digikey,,1,, $2.77 , $-   ,,,https://www.digikey.ca/en/products/detail/cui-devices/PTN16-A10125K1A2/20380750
+,,Micro SD Reader ,,Adafruit Industries LLC.,Digikey,,1,, $10.80 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/254/5761230
+,,Micro SD Card (512 MB),,Adafruit Industries LLC.,Digikey,,1,, $7.83 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5252/15841478
+,,Microphone (MAX9814),,Adafruit Industries LLC.,Digikey,,1,, $11.45 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1713/4990777
+,,"Red LED, 2V",,Everlight Electronics Co. Ltd,Digikey,,1,, $0.63 , $-   ,,,https://www.digikey.ca/en/products/detail/everlight-electronics-co-ltd/EALP05RDHRA2/5142171
+,,Green LED 2.1V,,Wurth Elektronik,Digikey,,1,, $0.40 , $-   ,,,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/151051VS04000/4490015
+,,Blue LED,,Wurth Elektronik,Digikey,,1,, $0.40 , $-   ,,,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/151051BS04000/4490009
+,,"Tactile Switch, right angle",,Omron Electronics,Digikey,,1,, $0.51 , $-   ,,,https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3F-3152/31741
+,,2k Ohm Resistor,,YAGEO,Digikey,,1,, $0.14 , $-   ,,,https://www.digikey.ca/en/products/detail/yageo/MFR-25FRF52-2K/14920
+,,5 Pin Female Header,,Sullins Connector Solutions,Digikey,,1,, $0.82 , $-   ,,,https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PPTC051LFBN-RC/807239
+,,15 Pin Female Header,,Sullins Connector Solutions,Digikey,,1,, $1.43 , $-   ,,,https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PPTC151LFBN-RC/810153
+,,9V Battery,,Duracell Industrial Operations Inc.,Digikey,,72,, $8.37 , $-   ,,,https://www.digikey.ca/en/products/detail/duracell-industrial-operations-inc/9V/21259959
+,,0.1 uF Capacitor,,KEMET,Digikey,,1,, $0.46 , $-   ,,,https://www.digikey.ca/en/products/detail/kemet/C315C104M5U5TA/817927
+,,9V Battery Clip,,Keystone Electronics,Digikey,,1,, $0.75 , $-   ,,,https://www.digikey.ca/en/products/detail/keystone-electronics/232/303804
+,,Ribbon Cable,,Assmann WSW Components,Digikey,,1,, $1.80 , $-   ,,,https://www.digikey.ca/en/products/detail/assmann-wsw-components/H3DDS-1006G/1218627
+,,Ribbon Cable Header,,Amphenol ICC (FCI),Digikey,,1,, $1.01 , $-   ,,,https://www.digikey.ca/en/products/detail/amphenol-cs-fci/86130101014345E1LF/7592367
+,,22k Ohm Resistor,,Stackpole Electronics Inc.,Digikey,,1,, $0.15 , $-   ,,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF18JT22K0/1741643
+,,"3.5mm Stereo Jack, SJ-3566AN",,CUI Devices,Digikey,,1,, $1.97 , $-   ,,,https://www.digikey.ca/en/products/detail/cui-devices/SJ-3566AN/305112 
+,,470k Ohm Resistor,,Stackpole Electronics Inc.,Digikey,,1,, $0.15 , $-   ,,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF18JT470K/1741719
+,,5 mm Green LED 3.4V,,Cree LED,Digikey,,1,, $0.46 , $-   ,,,https://www.digikey.ca/en/products/detail/creeled-inc/C5SMF-GJE-CX14Q7T2/4794039
+,,60V MOSFET,,Vishay Siliconix,Digikey,,1,, $3.04 , $-   ,,,https://www.digikey.ca/en/products/detail/vishay-siliconix/IRLD014PBF/812481
+,,Coin Cell Battery Holder,,MPD (Memory Protection Devices),Digikey,,1,, $1.60 , $-   ,,,https://www.digikey.ca/en/products/detail/mpd-memory-protection-devices/BS-7/389447
+,,IC Flip Flop,,Texas Instruments,Digikey,,1,, $1.38 , $-   ,,,https://www.digikey.ca/en/products/detail/texas-instruments/CD74HC73E/1507453
+,,M4 Hex Nut,,Small Parts,Amazon,,100,, $13.32 , $-   ,,,https://www.amazon.ca/gp/product/B009EG0QZ0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+,,M4 x 16 mm Screw,,Small Parts,Amazon,,100,, $11.43 , $-   ,,,https://www.amazon.ca/gp/product/B000NHYR0Y/ref=ppx_yo_dt_b_asin_title_o09_s02?ie=UTF8&psc=1
+,,Adafruit Rotary Trinkey,,Adafruit Industries LLC.,Digikey,,1,, $10.01 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4964/14307384
+,,"Screw, M3 x 8 mm, Nylon",,Wurth Elektronik,Digikey,,1,, $0.41 , $-   ,,,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/97790803111/10056388
+,,2 AAA Battery Holder,,LampVPath,Amazon,,6,, $15.54 , $-   ,,,https://www.amazon.ca/gp/product/B07CST9HKD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+,,1k Ohm Resistor,,"KOA Speer Electronics, Inc.",Mouser,,1,, $0.17 , $-   ,,,https://www.mouser.ca/ProductDetail/KOA-Speer/CFS1-4C102J?qs=9IB2bDhijq9MRkvwLBYZPw%3D%3D
+,,3.5 mm Stereo Jack,,Kycon,Mouser,,1,, $1.38 , $-   ,,,https://www.mouser.ca/ProductDetail/806-STX-3120-3B
+,,"5 mm Red LED, 5V",,Everlight Electronics Co. Ltd,Digikey,,1,, $0.63 , $-   ,,,https://www.digikey.ca/en/products/detail/kingbright/WP7113ID5V/3084220?s=N4IgTCBcDaIOoAUDsBGFBmAkgEQKwDUACEAXQF8g
+,,Momentary Limit Switch,,Uxcell,Amazon,,3,, $19.49 , $-   ,,,https://www.amazon.ca/uxcell%C2%AE-ME-8166-Flexible-Spring-Momentary/dp/B07KM22TZ2
+,Alternatives,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+,,"3.5 mm Mono Cable, 10ft M/M",,Phantom Cables,Infinite Cables,,1,, $2.00 , $-   ,,,https://www.infinitecables.com/products/3-5mm-mono-male-to-male-cable-riser-rated-cmr-ft4-black?variant=42861048332529
+,,7 Position Female Headers,,Molex,Digikey,,1,, $2.35 , $-   ,,,https://www.digikey.ca/en/products/detail/molex/0901471107/3303850?s=N4IgTCBcDaIAQE4AMBGALAdgLQpUjIAugL5A
+,,10k Ohm Resistor,,YAGEO,Digikey,,1,, $0.15 , $-   ,,,https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-10K/338
+,,100 Ohm Resistor,,YAGEO,Digikey,,1,, $0.14 , $-   ,,,https://www.digikey.ca/en/products/detail/yageo/MFR-25FBF52-100R/12795 
+,,10k Ohm Resistor,,Stackpole Electronics Inc.,Digikey,,1,, $0.15 , $-   ,,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF18JT10K0/1741566
+,,10000pF Capacitor,,Vishay Beyschlag/Draloric/BC Components,Digikey,,1,, $0.46 , $-   ,,,https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/K103K15X7RH5TL2/286565
+,,4.7k Ohm Resistor,,Stackpole Electronics Inc.,Digikey,,1,, $0.15 , $-   ,,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CFM14JT4K70/1742213
+,,Mini Analog Thumbstick,,Adafruit Industries LLC.,Mouser,,1,, $3.63 , $-   ,,,https://www.mouser.ca/ProductDetail/Adafruit/2765?qs=A50fv7uxK7XfNN3DwjrKxA%3D%3D&_gl=1*115tqw9*_ga*MzI4MTEyNDIyLjE2OTUzMTcwMjE.*_ga_15W4STQT4T*MTcwNDQ3NDY2Ny42LjEuMTcwNDQ3NDY2OC41OS4wLjA.*_ga_1KQLCYKRX3*MTY5NTY3MjA5Ny4yLjAuMTY5NTY3MjEyMS4zNi4wLjA.
+,,100 Ohm Resistor,,KOA Speer,Mouser,,1,, $0.16 , $-   ,,,https://www.mouser.ca/ProductDetail/KOA-Speer/MF1-4LCT52R101J?qs=DG1n8gfZNTsgm1lQXnAQZw%3D%3D
+,,10k Ohm Resistor,,KOA Speer,Digikey,,1,, $0.17 , $-   ,,,https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/MF1-4LCT52R103J/21679944
+,,2.2k Ohm Resistor,,KOA Speer,Digikey,,1,, $0.17 , $-   ,,,https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/MF1-4LCT52R222G/21679682?s=N4IgTCBcDaIAQFkBiBGA9AFgDIGEAqArGAEphkDiIAugL5A
+,,220 Ohm Resistor,,KOA Speer,Digikey,,1,, $0.17 , $-   ,,,https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/MF1-4LCT52R221J/21680264?s=N4IgTCBcDaIAQFkBiBGA9AFgDIGEAqArGAEphgoBSIAugL5A
+,,4.7k Ohm Resistor,,KOA Speer,Digikey,,1,, $0.17 , $-   ,,,https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/MF1-4LCT52R472G/21679651?s=N4IgTCBcDaIAQFkBiBGA9AFgDIGEAqArGAEoYDsYA4iALoC%2BQA
+,,7 Position Female Headers,,Molex,Mouser,,1,, $2.36 , $-   ,,,https://www.mouser.ca/ProductDetail/538-90147-1107
+,,NeoPixels LED,,Adafruit Industries LLC.,Digikey,,5,, $7.60 , $-   ,,,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1938/6827082?s=N4IgTCBcDaIIwE4DMAOABAOwKYHsAOAlgB5YA2IAugL5A
+,,Piezo Buzzer,,Adafruit Industries LLC.,Mouser,,1,, $2.18 , $-   ,,,https://www.mouser.ca/ProductDetail/Adafruit/160?qs=GURawfaeGuDIqfAvA4gXSg%3D%3D
+,,10 uF Capacitor,,KEMET,Digikey,,1,, $1.05 , $-   ,,,https://www.digikey.ca/en/products/detail/kemet/C430C106K3R5TA/6685941
+,,3.5 mm Mono Switch Jack,,CUI Devices,Mouser,,1,, $2.45 , $-   ,,,https://www.mouser.ca/ProductDetail/CUI-Devices/SJ1-3535NG?qs=WyjlAZoYn50jUmKVsqeRJw%3D%3D
+,,"3.5 mm Stereo Jack, TRRS",,CUI Devices,Mouser,,1,, $1.60 , $-   ,,,https://www.mouser.ca/ProductDetail/CUI-Devices/SJ-43514?qs=WyjlAZoYn51bsBOfuwwiuw%3D%3D
+,,Adafruit Nunchuk Breakout Board,,Adafruit Industries LLC.,Mouser,,1,, $4.28 , $-   ,,,https://www.mouser.ca/ProductDetail/Adafruit/4836?qs=eP2BKZSCXI4ZoRtk7kHCZA%3D%3D
+,,Adafruit QT PY - SAMD21,,Adafruit Industries LLC.,Mouser,,1,, $10.88 , $-   ,,,https://www.mouser.ca/ProductDetail/Adafruit/4600?qs=hd1VzrDQEGi752M4exorSA%3D%3D
+,,USB to USB C Cable,,"GlobTek, Inc.",Digikey,,1,, $3.98 , $-   ,,,https://www.digikey.ca/en/products/detail/globtek-inc/USBA2C1MOUSBC-R/12546298
+,,M3 x 12mm Screw,,APM Hexseal,Digikey,,1,, $1.09 , $-   ,,,https://www.digikey.ca/en/products/detail/apm-hexseal/RM3X12MM-2701/2063201
+,,IC Op Amp,,Texas Instruments,Mouser,,1,, $3.65 , $-   ,,,https://www.mouser.ca/ProductDetail/Texas-Instruments/TLV2451CP?qs=6aLkNDRfRUb8ttT6Cjn4Qw%3D%3D&utm_source=octopart&utm_medium=aggregator&utm_campaign=595-TLV2451CP&utm_content=Texas+Instruments
+,,LCD Feedback Screen,,Adafruit Industries LLC.,Mouser,,1,, $28.93 , $-   ,,,https://www.mouser.ca/ProductDetail/Adafruit/938?qs=GURawfaeGuBw18l06EFBdw%3D%3D
+,,50 mm Qwiic Cable ,,Adafruit Industries LLC.,PiShop,,1,, $1.95 , $-   ,,,https://www.pishop.ca/product/stemma-qt-qwiic-jst-sh-4-pin-cable-50mm-long/
+,,"¼-20, 5/16"" length T-Nut",,PowerTec,Amazon,,50,, $16.68 , $-   ,,,https://www.amazon.ca/gp/product/B07NCXNKJR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+,,Adafruit Mini Analog Joystick,,Adafruit Industries LLC.,Mouser,,1,, $28.93 , $-   ,,,https://www.mouser.com/ProductDetail/Adafruit/3102?qs=Fe2pGbCwd5e23I9qtrkUqA%3D%3D
+,,"TRRS Audio Cable, M / Wire (0.5 cable)",,Tensility International Corp.,Digikey,,1,, $5.05 , $-   ,,,https://www.digikey.ca/en/products/detail/tensility-international-corp/10-00332/2350238
+,,M3 Hex Nut,,Keystone Electronics,Digikey,,1,, $0.28 , $-   ,,,https://www.digikey.ca/en/products/detail/keystone-electronics/4708/4499301
+,,"4"" Cable Tie / Zip Tie",,TE Connectivity AMP Connectors,Digikey,,1,, $0.25 , $-   ,,,(LS) https://www.digikey.ca/en/products/detail/te-connectivity/2-604771-9/2259327
+,,M4 Hex Nut,,Paulin,Home Depot,,16,, $3.97 , $-   ,,,https://www.homedepot.ca/product/paulin-metric-hex-nut-m4-70-16pcs/1001588036
+,,2 AAA Battery Holder,,MPD (Memory Power Devices),Digikey,,1,, $2.26 , $-   ,,,https://www.digikey.ca/en/products/detail/BC2AAAW/BC2AAAW-ND/66741?utm_cid=537048
+,,"5 mm Red LED, 5V",,Kingbright,Mouser,,1,, $0.54 , $-   ,,,https://www.mouser.ca/ProductDetail/604-WP7113ID5V
