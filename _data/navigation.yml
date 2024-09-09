@@ -2,15 +2,21 @@
 main:
   - title: "Makers Making Change"
     url: https://www.makersmakingchange.com/s/
-  - title: "Reference Guides"
-    url: /_pages/reference_guides/
-  - title: "Materials"
-    url: /_pages/materials/
-  - title: "Session Questionnaire"
-    url: /_pages/Session_Questionnaire/
-  - title: "Templates"
-    url: /_pages/Templates/ 
-  - title: "Marketing"
-    url: /_pages/marketing/
+  - title: "3D Printing"
+    url: /_pages/3D_Printing/
+  - title: "Arduino"
+    url: /_pages/Arduino/
+  - title: "CAD"
+    url: /_pages/CAD/
+  - title: "Commonly Used Parts"
+    url: /_pages/Common_Parts/ 
+  - title: "Documentation Templates"
+    url: /_pages/Documentation_Templates/
+  - title: "Navigating GitHub"
+    url: /_pages/Git_Hub/
+  - title: "PCB Design"
+    url: /_pages/PCB_Design/
+  - title: "Photos and Videos"
+    url: /_pages/Photos_and_Videos/
   - title: "Contact"
     url: /_pages/contact/
