@@ -7,6 +7,9 @@ excerpt: |
   - Photo Resource PDF: A resource outlining best practices for taking and using photos across different types of documents. The resource includes examples of good and bad images to use with explanations.
   - Video Resource PDF: This resource is currently under development.
 
+
+
+
 header:
   overlay_color: "#333"
 feature_row:
@@ -33,6 +36,7 @@ feature_row:
     btn_label: "Go To Video Resource"
     btn_class: "btn--primary"
   
+
 ---
 
 

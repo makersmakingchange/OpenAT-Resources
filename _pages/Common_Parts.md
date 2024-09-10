@@ -18,7 +18,7 @@ header:
     - label: "Download Stock Parts BOM Spreadsheet"
       url: "https://github.com/makersmakingchange/OpenAT-Resources/raw/main/Common_Parts/Stock_Part_BOM.xlsx" 
 feature_row3:
-  - image_path: assets/images/Stock_Parts_BOM_Header.png
+  - image_path: assets/images/Stock_Parts_BOM_Header.PNG
     alt: "Screenshot of the header from the Stock Parts spreadsheet."
     title: "What is Included"
     excerpt: |
