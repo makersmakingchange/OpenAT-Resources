@@ -16,7 +16,7 @@ feature_row3:
   - image_path: assets/images/GitHub_Logo.png
     alt: "Screenshot of the GitHub Logo."
     title: "What is Included"
-     excerpt: |
+    excerpt: |
       
 
       - GitHub Resource PDF: A resource outlining how to get started using GitHub. The resource links to other tutorials and pages, and gives people an idea of where to start looking when first learning about using GitHub.

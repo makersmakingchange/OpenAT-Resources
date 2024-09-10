@@ -13,7 +13,7 @@ header:
     - label: "Download CAD Resource"
       url: "https://github.com/makersmakingchange/OpenAT-Resources/tree/main/CAD_Design_Resources" 
 feature_row3:
-  - image_path: assets/images/CAD_Model.jpg
+  - image_path: assets/images/CAD_Model.png
     alt: "Screenshot of a generic CAD model."
     title: "What is Included"
      excerpt: |

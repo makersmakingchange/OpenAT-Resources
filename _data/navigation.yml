@@ -18,5 +18,7 @@ main:
     url: /_pages/PCB_Design/
   - title: "Photos and Videos"
     url: /_pages/Photos_and_Videos/
+  - title: "Open-Source Licenses"
+    url: /_pages/Licenses/
   - title: "Contact"
     url: /_pages/contact/
