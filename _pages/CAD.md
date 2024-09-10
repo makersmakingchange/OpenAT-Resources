@@ -16,7 +16,7 @@ feature_row3:
   - image_path: assets/images/CAD_Model.png
     alt: "Screenshot of a generic CAD model."
     title: "What is Included"
-     excerpt: |
+    excerpt: |
       
 
       - CAD Resource PDF: A resource outlining how to get started designing with CAD. The resource links to other tutorials and pages, and gives people an idea of where to start looking when first learning about using CAD to create new devices.
