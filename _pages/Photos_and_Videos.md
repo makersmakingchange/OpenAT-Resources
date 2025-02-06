@@ -12,7 +12,7 @@ excerpt: |
 
 header:
   overlay_color: "#333"
-feature_row:
+feature_row3:
   - image_path: assets/images/Example_Part.png
     alt: "A closeup of a 3D printed part."
     title: "Photo Resource"
