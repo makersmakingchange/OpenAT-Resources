@@ -68,7 +68,7 @@ Assembly and use videos for devices can be extremely helpful for other makers an
 
 There are many parts that are used across multiple MMC devices, so this resource contains all the information requried to fill in the BOM lines for a device that uses any of these common parts. Designers can copy and paste the lines from this BOM into the BOM for their device. The BOM resource is most useful for designers who are using the [MMC documentation templates](https://github.com/makersmakingchange/OpenAT-Template).
 
-## Commmon Part Images
+## Common Part Images
 
 The common part images resource has photos of commonly used parts across multiple MMC devices. Like the BOM resource, designers can use these images to show each component in their device in the Maker Guide. The common part images resource is most useful for designers who are using the [MMC documentation templates](https://github.com/makersmakingchange/OpenAT-Template).
 
