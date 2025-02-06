@@ -20,7 +20,8 @@ feature_row3:
     alt: "A closeup of a 3D printed part."
     title: "Photo Resource"
     excerpt: |
-      A resource outlining best practices for taking and using photos across different types of documents. The resource includes examples of good and bad images to use with explanations
+      A resource outlining best practices for taking and using photos across different types of documents. The resource includes examples of good and bad images to use with explanations.
+    url: "https://github.com/makersmakingchange/OpenAT-Resources/blob/main/Photos_and_Videos_Resources/Photo_Resources/Photo_Resource.pdf" 
     target: "_blank"
     rel: "noopener noreferrer"
     btn_label: "Go To Photo Resource"
