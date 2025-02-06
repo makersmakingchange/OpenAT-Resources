@@ -24,7 +24,7 @@ feature_row:
     rel: "noopener noreferrer"
     btn_label: "Go To Photo Resource"
     btn_class: "btn--primary"
-  - image_path: assets/images/Video_Example.png
+  - image_path: assets/images/Video_Example.PNG
     alt: "
     title: "Video Resource"
     excerpt: |
