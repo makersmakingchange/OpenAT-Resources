@@ -25,7 +25,7 @@ feature_row:
     btn_label: "Go To Photo Resource"
     btn_class: "btn--primary"
   - image_path: assets/images/Video_Example.PNG
-    alt: "
+    alt: ""
     title: "Video Resource"
     excerpt: |
       This resource is currently under development. The goal will be to describe which videos would be useful for someone to create, and what those videos should include.
