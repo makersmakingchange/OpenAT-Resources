@@ -14,7 +14,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Download Photo Resource"
-      # url: "https://github.com/makersmakingchange/OpenAT-Resources/blob/main/Photos_and_Videos_Resources/Photo_Resource.pdf" 
+      # url: "https://github.com/makersmakingchange/OpenAT-Resources/blob/main/Photos_and_Videos_Resources/Photo_Resources/Photo_Resource.pdf" 
 feature_row3:
   - image_path: assets/images/Example_Part.png
     alt: "A closeup of a 3D printed part."
@@ -31,7 +31,7 @@ feature_row3:
     excerpt: |
       This resource is currently under development. The goal will be to describe which videos would be useful for someone to create, and what those videos should include.
     - label: "Download Video Resource"
-      url: "https://github.com/makersmakingchange/OpenAT-Resources/blob/main/Photos_and_Videos_Resources/Video_Resource.pdf" 
+      url: "https://github.com/makersmakingchange/OpenAT-Resources/blob/main/Photos_and_Videos_Resources/Video_Resources/Video_Resource.pdf" 
     target: "_blank"
     rel: "noopener noreferrer"
     btn_label: "Go To Video Resource"
