@@ -48,7 +48,7 @@ Creating custom PCBs can be useful for designs with complex electronics so this 
 
 ## Arduino
 
-MMC uses Arduino for any devices tha require firmware, so this resource was designed to help volunteers learn how to use Arduino, both for flashing existing firmware to devices and writing their own code. The Arduino resource is useful for any user who would like to learn how to use Arduino.
+MMC uses Arduino for many devices that require firmware, so this resource was designed to help volunteers learn how to use Arduino, both for flashing existing firmware to devices and writing their own code. The Arduino resource is useful for any user who would like to learn how to use Arduino.
 
 ## Open Source Licenses
 
