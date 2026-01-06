@@ -14,7 +14,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Download Photo Resource"
-      # url: "https://github.com/makersmakingchange/OpenAT-Resources/blob/main/Photos_and_Videos_Resources/Photo_Resources/Photo_Resource.pdf" 
+      url: "https://github.com/makersmakingchange/OpenAT-Resources/blob/main/Photos_and_Videos_Resources/Photo_Resources/Photo_Resource.pdf" 
 feature_row3:
   - image_path: assets/images/Example_Part.png
     alt: "A closeup of a 3D printed part."
