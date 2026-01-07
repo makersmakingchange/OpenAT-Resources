@@ -30,6 +30,7 @@ feature_row:
     alt: "A screenshot from a video with DIY Assistive Technology written in the bottom left and a hand using a Pen Holder assistive device."
     title: "Video Resource"
     excerpt: "This resource is currently under development. The goal will be to describe which videos would be useful for someone to create, and what those videos should include."
+    url: "https://github.com/makersmakingchange/OpenAT-Resources/blob/main/Photos_and_Videos_Resources/Video_Resources/Video_Resource.pdf" 
     target: "_blank"
     rel: "noopener noreferrer"
     btn_label: "Go To Video Resource"
