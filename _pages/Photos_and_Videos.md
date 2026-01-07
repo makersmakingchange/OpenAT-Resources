@@ -25,7 +25,8 @@ feature_row3:
     rel: "noopener noreferrer"
     btn_label: "Go To Photo Resource"
     btn_class: "btn--primary"
-  #- image_path: assets/images/Video_Example.PNG
+feature_row:
+  - image_path: assets/images/Video_Example.PNG
    # alt: "A screenshot from a video with DIY Assistive Technology written in the bottom left and a hand using a Pen Holder assistive device."
     #title: "Video Resource"
     #excerpt: "This resource is currently under development. The goal will be to describe which videos would be useful for someone to create, and what those videos should include."
@@ -42,3 +43,4 @@ feature_row3:
 
 
 {% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row" type="left" %}
