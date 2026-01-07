@@ -27,14 +27,14 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row:
   - image_path: assets/images/Video_Example.PNG
-    alt: "A screenshot from a video with DIY Assistive Technology written in the bottom left and a hand using a Pen Holder assistive device."
-    title: "Video Resource"
-    excerpt: "This resource is currently under development. The goal will be to describe which videos would be useful for someone to create, and what those videos should include."
-    - label: "Download Video Resource"
-    target: "_blank"
-    rel: "noopener noreferrer"
-    btn_label: "Go To Video Resource"
-    btn_class: "btn--primary"
+    #alt: "A screenshot from a video with DIY Assistive Technology written in the bottom left and a hand using a Pen Holder assistive device."
+    #title: "Video Resource"
+    #excerpt: "This resource is currently under development. The goal will be to describe which videos would be useful for someone to create, and what those videos should include."
+    #- label: "Download Video Resource"
+    #target: "_blank"
+    #rel: "noopener noreferrer"
+    #btn_label: "Go To Video Resource"
+    #btn_class: "btn--primary"
   
 
 ---
